@@ -6,7 +6,7 @@ MARKDOWN_20250714
 [PCWK Daum](https://cafe.daum.net/pcwk)
 
 **같은 페이지내 하아퍼 링크**
-[여기](#4-코드)
+[여기](#4-코드블록)
 
 ### 5. 목록
 **순서 있는 목록**  
@@ -58,6 +58,6 @@ public class Hello {
 (넣무 더워요)
 개형 : space 2개
 
-#4-코드
+#4-코드블록
 
 
