@@ -1,11 +1,22 @@
 # MARKDOWN_20250714
 MARKDOWN_20250714
+
+
+
+
+
+### 7. 강조(Emphasis)
+- Bold :**텍스트** 또는 __텍스트__
+- Italic: *텍스트* 또는 _텍스트_
+- Bold + Italic: ***텍스트***  
+
+
 ### 6. 링크(Link)
 `[링크텍스](URL)형태로 작성 합니다.`  
 
 [PCWK Daum](https://cafe.daum.net/pcwk)
 
-**같은 페이지내 하아퍼 링크**
+**같은 페이지내 하아퍼 링크: Commit이후 Link생성(단 Preview에서는 링크않됨.)**
 [여기](#3-인용상자)
 
 ### 5. 목록
